@@ -32,3 +32,4 @@ for i,sentence in enumerate(zh_doc.sentences):
         print("{}\t{}".format(word.index,word.text))
 
 
+print("iihdsidihdsio")
